@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+    <inpatient>
+        <insuranceId>1001</insuranceId>
+        <firstName>Maya</firstName>
+        <lastName>Chen</lastName>
+        <profile>
+            <age>40</age>
+            <weightInPounds>150.0</weightInPounds>
+            <heightInInches>65.0</heightInInches>
+        </profile>
+        <roomNumber>305B</roomNumber>
+        <daysAdmitted>4</daysAdmitted>
+    </inpatient>
+    <outpatient>
+        <insuranceId>1002</insuranceId>
+        <firstName>Daniel</firstName>
+        <lastName>Rivera</lastName>
+        <profile>
+            <age>30</age>
+            <weightInPounds>180.0</weightInPounds>
+            <heightInInches>70.0</heightInInches>
+        </profile>
+        <clinicName>General Medicine</clinicName>
+        <nextAppointmentDate>2026-11-18</nextAppointmentDate>
+    </outpatient>
+    <inpatient>
+        <insuranceId>1003</insuranceId>
+        <firstName>Alex</firstName>
+        <lastName>Morgan</lastName>
+        <profile>
+            <age>55</age>
+            <weightInPounds>210.0</weightInPounds>
+            <heightInInches>68.0</heightInInches>
+        </profile>
+        <roomNumber>204A</roomNumber>
+        <daysAdmitted>2</daysAdmitted>
+    </inpatient>
+    <outpatient>
+        <insuranceId>1004</insuranceId>
+        <firstName>Emma</firstName>
+        <lastName>Wilson</lastName>
+        <profile>
+            <age>45</age>
+            <weightInPounds>160.0</weightInPounds>
+            <heightInInches>67.0</heightInInches>
+        </profile>
+        <clinicName>Family Medicine</clinicName>
+        <nextAppointmentDate>2026-11-20</nextAppointmentDate>
+    </outpatient>
+</patients>
