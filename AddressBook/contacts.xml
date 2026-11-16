@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <person>
+        <address>12 Maple Street</address>
+        <phoneNumber>202-555-0101</phoneNumber>
+        <firstname>Maya</firstname>
+        <lastname>Chen</lastname>
+        <email>maya.chen@example.com</email>
+    </person>
+    <company>
+        <address>45 Oak Avenue</address>
+        <phoneNumber>202-555-0102</phoneNumber>
+        <companyName>Northstar Computing</companyName>
+        <contactPerson>
+            <address>12 Maple Street</address>
+            <phoneNumber>202-555-0101</phoneNumber>
+            <firstname>Maya</firstname>
+            <lastname>Chen</lastname>
+            <email>maya.chen@example.com</email>
+        </contactPerson>
+    </company>
+</contacts>
